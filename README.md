@@ -1,6 +1,6 @@
 # TupasKMagic8BallAPI8
 
-//Peer Review: the code runs good. The inputs work. And the code spits 
+//Peer Review: Sanuel Laguna the code runs good. The inputs work. And the code spits 
 //Out what it is meant t0. The code looks correct. This program is all good.
 
 
